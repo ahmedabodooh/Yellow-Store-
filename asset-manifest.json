@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Yellow-Store-/static/css/main.e6ee77b4.css",
-    "main.js": "/Yellow-Store-/static/js/main.fc549438.js",
+    "main.css": "/Yellow-Store-/static/css/main.fdffaf05.css",
+    "main.js": "/Yellow-Store-/static/js/main.76f24988.js",
     "static/js/453.f33d7f12.chunk.js": "/Yellow-Store-/static/js/453.f33d7f12.chunk.js",
     "static/media/9.jpg": "/Yellow-Store-/static/media/9.cdd3cd91f5ee20a1f90c.jpg",
     "static/media/7.jpg": "/Yellow-Store-/static/media/7.11fd0fb6d0326e336836.jpg",
@@ -27,12 +27,12 @@
     "static/media/21.jpg": "/Yellow-Store-/static/media/21.5d735bdf4f6507d2470c.jpg",
     "static/media/logo.png": "/Yellow-Store-/static/media/logo.5bfc1bc0eb42039f2de3.png",
     "index.html": "/Yellow-Store-/index.html",
-    "main.e6ee77b4.css.map": "/Yellow-Store-/static/css/main.e6ee77b4.css.map",
-    "main.fc549438.js.map": "/Yellow-Store-/static/js/main.fc549438.js.map",
+    "main.fdffaf05.css.map": "/Yellow-Store-/static/css/main.fdffaf05.css.map",
+    "main.76f24988.js.map": "/Yellow-Store-/static/js/main.76f24988.js.map",
     "453.f33d7f12.chunk.js.map": "/Yellow-Store-/static/js/453.f33d7f12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6ee77b4.css",
-    "static/js/main.fc549438.js"
+    "static/css/main.fdffaf05.css",
+    "static/js/main.76f24988.js"
   ]
 }
